@@ -65,6 +65,8 @@ CREATE TABLE `tbadministrators` (
 
 INSERT INTO `tbadministrators` (`admin_id`, `first_name`, `last_name`, `email`, `password`) VALUES
 (4, 'Shubham', 'Tripathi', 'admin@gmail.com', '0e7517141fb53f21ee439b355b5a1d0a');
+EMAIL- admin@gmail.com
+PASSWORD - Admin@123
 
 -- --------------------------------------------------------
 
